@@ -15,12 +15,12 @@
 6.	Improves marketing 
 
 ## 3- analyses the differences between API and SDK as following :
-1- Full form
-2-Definition
-3- Example
-4- Type 
-5- Relation to each other 
-6- Features
+- Full form
+- Definition
+- Example
+- Type 
+- Relation to each other 
+- Features
 
  |SDK | API| 
 |-----|-----|
