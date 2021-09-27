@@ -11,4 +11,27 @@ An endpoint is the location where APIs send requests and where the resource resi
 - Authentication Key: The property gained while executing a key setup protocol (Key Agreement and Key Management) is key authentication, 
 - in which one entity has the confidence that only a specifically specified other party knows the agreed key.
 
-[City explore]https://festive-liskov-3b7ed9.netlify.app
+### FrontEnd: 
+[GitHub repo](https://github.com/Hamzamt99/city-explorer)
+
+[Netlify](https://6151c0c0a9a29a05e1e88df2--sleepy-bartik-a8b38e.netlify.app)
+
+### BackEnd:
+[GitHub repo](https://github.com/Hamzamt99/city-explorer-api)
+
+[Heroku](https://city-explorer33.herokuapp.com)
+
+### Weather APi: 
+ is a way for computers or computer programs to communicate with one another.
+ 
+ usage : we use to get weather data for each city
+
+### Authentication Key: 
+
+REACT_APP_LOCATIONIQ_KEY=pk.daa10644f7089928bd984f4678dc448f
+
+REACT_APP_SERVER_LINK=http://localhost:3001
+
+
+
+
